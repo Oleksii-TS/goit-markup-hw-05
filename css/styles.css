@@ -741,7 +741,7 @@ h6 {
   text-decoration: underline;
 }
 
-.checkbox-label {
+.label-checkbox {
   display: inline-block;
   gap: 2px;
   text-align: center;
