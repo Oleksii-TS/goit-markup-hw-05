@@ -490,6 +490,9 @@ h6 {
   background: transparent;
   outline: none;
   padding-left: 16px;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.04em;
   color: #ffffff;
 }
 
@@ -507,7 +510,7 @@ h6 {
   color: #ffffff;
   border-radius: 4px;
   padding: 8px 24px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   border: none;
   cursor: pointer;
